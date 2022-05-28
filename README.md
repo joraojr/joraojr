@@ -15,13 +15,12 @@ I'm Data Scientist with an MSc in Computer Science currently working as a Teachi
 ## ⚡️ A Few Quick Facts
 
 
-<img align="right" src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="300"/>
+
+<img style="float: right;" src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="500" alt="gif"/>
 
 - 🔭 I’m currently working at [Institute for Distributed Ledgers and Token Economy, WU]
 - 🌱 I’m currently learning about Token Engineering and Quantum Computing
 - 💬 Ask me about Databases, Data Science, and Blockchain stuff
-- ⚡ Fun fact: Playing RPG in the free times
-
 
 ## 🚀 Some Tools I Use
 
@@ -61,11 +60,11 @@ I'm Data Scientist with an MSc in Computer Science currently working as a Teachi
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=joraojr&color=brightgreen)](https://github.com/joraojr)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/joraojr)](https://github.com/joraojr)
+</div>
+
 
 ![Jorao Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joraojr&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joraojr&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
 
-
-</div>
 
 [Institute for Distributed Ledgers and Token Economy, WU]: https://www.wu.ac.at/en/tecon
