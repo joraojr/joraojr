@@ -15,7 +15,7 @@ I'm Data Scientist with an MSc in Computer Science currently working as a Teachi
 ## ⚡️ A Few Quick Facts
 
 
-<img align="right" src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="500"/>
+<img align="right" src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="300"/>
 
 - 🔭 I’m currently working at [Institute for Distributed Ledgers and Token Economy, WU]
 - 🌱 I’m currently learning about Token Engineering and Quantum Computing
