@@ -1,6 +1,6 @@
 ## Hello there, I'm Jorão Jr. 👋 
 
-I'm Data Scientist with an MSc in Computer Science currently working as a Teaching and Research Associate. Enthusiastic about all types of data with strong motivation to solve problems!
+I'm a Data Scientist with an MSc in Computer Science currently working as a Teaching and Research Associate. Enthusiastic about all types of data with a strong motivation to solve problems!
 
 <div align="center">
 
@@ -20,9 +20,9 @@ I'm Data Scientist with an MSc in Computer Science currently working as a Teachi
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [Institute for Distributed Ledgers and Token Economy, WU]
-- 🌱 I’m currently learning about Token Engineering and Quantum Computing
-- 💬 Ask me about Databases, Data Science, and Blockchain stuff
+- 🔭 I’m currently working at [Institute for Digital Ecosystems, WU]
+- 🌱 I’m currently learning about Large Language Models (LLMs), Generative AI, and Behavioral Economics
+- 💬 Ask me about Natural Language Processing (NLP), Recommender Systems, and Information Retrieval
 
 
 
@@ -72,4 +72,4 @@ I'm Data Scientist with an MSc in Computer Science currently working as a Teachi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joraojr&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
 
 
-[Institute for Distributed Ledgers and Token Economy, WU]: https://www.wu.ac.at/en/tecon
+[Institute for Digital Ecosystems, WU]: https://www.wu.ac.at/en/deco/
